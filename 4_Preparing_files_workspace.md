@@ -10,7 +10,7 @@ To do that, we will first look at how binaries for the Surface Duo and Xiaomi ph
 
 **We will be using the free software reverse-engineering suite Ghidra (depends on JDK 11 - make sure to install that as well!) and two Linux commandline programs, `hexdump` and `diff`, that in most cases should preinstalled with your Linux distribution.**
 
-First, navigate to the root directory of the project (which is in your user folder, assuming you have been following the [Build Environment Setup](en/sm8150pkg/tutorial/2_Build_environment_setup.md) page):
+First, navigate to the root directory of the project (which is in your user folder, assuming you have been following the [Build Environment Setup](2_Build_environment_setup.md) page):
 
 ```
 $ cd ~/MU-sm8150pkg/
@@ -138,4 +138,4 @@ $ ls | wc -l
 20
 ```
 
-Perfect! Now, with that done, let's proceed to the next step: [analyzing the firmware binaries](en/sm8150pkg/tutorial/5_Analyzing_patching_firmware_binaries.md)!
+Perfect! Now, with that done, let's proceed to the next step: [analyzing the firmware binaries](5_Analyzing_patching_firmware_binaries.md)!

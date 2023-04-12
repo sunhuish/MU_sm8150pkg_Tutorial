@@ -296,4 +296,4 @@ Now, save and export the binary in PE format, like we have done before:
 ![](/img/dxe_patching/41.png) - filename!
 ![](/img/dxe_patching/42.png)
 
-With this finally done, let's move to [the final step in this task](en/sm8150pkg/tutorial/6_Building_with_patched_firmware_binaries.md).
+With this finally done, let's move to [the final step in this task](6_Building_with_patched_firmware_binaries.md).
